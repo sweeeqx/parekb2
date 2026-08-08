@@ -17,7 +17,7 @@ from aiogram.types import (
 
 
 BASE_DIR = Path(__file__).resolve().parent
-TOKEN = os.getenv("BOT_TOKEN", "8563043264:AAFF_6wC_8m-J-CveUCmUeBrSO-CPZEXzjQ")
+TOKEN = os.getenv("BOT_TOKEN", "8563043264:AAFuuIKrODAiESLgkGAZxdwL0Uvak_419Y8")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "1140430618"))
 MANAGER = os.getenv("MANAGER", "@sweeeqx")
 CHANNEL_LINK = os.getenv("CHANNEL_LINK", "https://t.me/+U82CidH7uzA2ZWYx")
